@@ -12,7 +12,7 @@ import uuid
 import httpx
 import DRMHeaders
 
-MyWVD = "/PATH/TO/WVD.wvd"
+MyWVD = "/root/download/my.wvd"
 
 
 class Settings:
